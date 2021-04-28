@@ -1,0 +1,1 @@
+# collegiate-wiki
