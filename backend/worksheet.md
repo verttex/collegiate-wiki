@@ -2,7 +2,7 @@
 title: Worksheet
 description: On-going to-do for the wiki
 published: true
-date: 2021-05-01T18:54:01.276Z
+date: 2021-05-01T19:19:15.637Z
 tags: platform, backend
 editor: markdown
 dateCreated: 2021-05-01T18:54:01.276Z
@@ -24,11 +24,20 @@ The purpose of this page is to give a rough overview of the current projects/pag
 
 
 
-Invite Testers/Contributers
+*Invite Testers/Contributers*
+*Go Public*
+
+
+## Current Tasks
+- [ ] Importing old information from google docs, spreadsheets, notes, tweets, and more
+- 
+
 
 ## Todo
 
-All of this is being done by @Jack right now.
+> All of this is being done by [@Jack (Verttex)](https://twitter.com/Verttex)  right now.
+{.is-info}
+
 
 ### Backend
 - [X] Domain Registration + Hosting
@@ -39,7 +48,7 @@ All of this is being done by @Jack right now.
 - [ ] Themeing
 - [ ] Backend Pages - Markdown, permissions, tags, documentation
 - [ ] Custom Page Setup
-
+- [ ] Styleguide / how things should be written
 
 ### Discord
 - [ ] Channel Layout
@@ -50,21 +59,11 @@ All of this is being done by @Jack right now.
 
 
 
+## Need to have Discussions
 
-
-## Timeline
-
-4/28/21 - Domain Registration / Setup
-4/30/21 - Basic build out
-
-
-
-Invite Testers/Contributers
-
-
-
-### Need to have Discussions
-
-
-
-
+- [ ] How to handle contributions
+- [ ] How early invites should work
+- [ ] Public Club pages/list
+- [ ] How focused should we be on tracking esports history/results
+- [ ] Varsity / NACE / all that shit
+- [ ] Partnerships
