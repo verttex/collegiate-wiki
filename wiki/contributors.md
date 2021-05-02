@@ -2,7 +2,7 @@
 title: Contributors
 description: 
 published: true
-date: 2021-05-02T01:28:59.949Z
+date: 2021-05-02T01:49:56.167Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-01T22:01:41.605Z
@@ -41,5 +41,6 @@ Early discussions on how to build this platform out with:
 - [Zynab Makki](https://twitter.com/zynabmakki)
 - [James Fitzgerald](https://twitter.com/OPSE_Fitzy)
 - [Dante Provenzano](https://twitter.com/DanteProv)
+- [Sam Morris](https://twitter.com/SamMorris_SP)
 
 And **you** - thanks for reading 💜
