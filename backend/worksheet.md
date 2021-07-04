@@ -2,7 +2,7 @@
 title: Worksheet
 description: On-going to-do for the wiki
 published: true
-date: 2021-07-04T21:21:13.035Z
+date: 2021-07-04T21:38:38.624Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-01T18:54:01.276Z
@@ -22,7 +22,10 @@ The purpose of this page is to give a rough overview of the current projects/pag
 4/28/21 - Domain Registration / Setup
 4/30/21 - Basic build out
 
+a lot of time where jack was busy
 
+7/3/21 - Public tease
+7/4/21 - Discord server buildout and first invitees.
 
 *Invite Testers/Contributers*
 *Go Public*
@@ -51,22 +54,22 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 - [X] Wiki.js Setup
 - [X] Discord Authentication
 - [ ] Roles + Permissions
-- [ ] Finalize Navigation
+- [X] Finalize Navigation
 - [ ] Themeing
 - [ ] Backend Pages - Markdown, permissions, tags, documentation
 - [ ] Custom Page Setup
 - [ ] Styleguide / how things should be written
 
 ### Discord
-- [ ] Channel Layout
-- [ ] Roles + Permissions
-- [ ] Getting Started / Announcements
-- [ ] How to Contribute
+- [X] Channel Layout
+- [X] Roles + Permissions
+- [X] Getting Started / Announcements
+- [X] How to Contribute
 
 
 
 
-## Need to have Discussions
+### Need to have Discussions
 
 - [ ] How to handle contributions
 - [ ] How early invites should work
@@ -76,6 +79,8 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 - [ ] Partnerships
 
 ## Assignments
+
+These are just suggestions/vague ideas of where I think people can best contribute.
 
 **Clubs**
 Starting Club
