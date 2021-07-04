@@ -2,8 +2,8 @@
 title: Worksheet
 description: On-going to-do for the wiki
 published: true
-date: 2021-05-02T01:15:44.046Z
-tags: platform, backend
+date: 2021-07-04T20:56:40.061Z
+tags: 
 editor: markdown
 dateCreated: 2021-05-01T18:54:01.276Z
 ---
@@ -74,3 +74,34 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 - [ ] How focused should we be on tracking esports history/results
 - [ ] Varsity / NACE / all that shit
 - [ ] Partnerships
+
+## Assignments
+
+**Clubs**
+Starting Club
+Development and Planning - **Jack**
+Structure & Roles - **Jack**
+Diversity & Inclusion
+Events
+Transition
+Funding
+
+**Esports**
+Forming Your First Team - 
+Tournaments - **Fitzy/Demise**
+Intramurals - **Jack**
+Contracts / Expectations - 
+Building Cohesion - 
+
+**Career**
+Working in Gaming & Esports
+Job Search
+Resumes & Cover Letters
+Interviews
+Networking
+
+**Above and Beyond**
+Broadcast - **Sam**
+Varsity - TBD
+Campus Space - TBD
+
